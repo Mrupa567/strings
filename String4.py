@@ -1,6 +1,5 @@
 '''
-wercase: 5
-4) Write a  Python Program to calculate the number of words and characters present in a string.
+Write a  Python Program to calculate the number of words and characters present in a string.
 Input & Output Format:
 Input consists of a string.
 Output consists of two integers.
