@@ -1,5 +1,5 @@
 '''
- There are 50 students in the class. The teacher wants to arrange them in the height order. So help the teacher to find the smallest person and tallest to arrange.(count the number of lowercase letters and uppercase letters in a string.)
+There are 50 students in the class. The teacher wants to arrange them in the height order. So help the teacher to find the smallest person and tallest to arrange.(count the number of lowercase letters and uppercase letters in a string.)
 Problem Description:
 The program takes a string and counts the number of lowercase letters and uppercase letters in the string.
 Problem Solution:
